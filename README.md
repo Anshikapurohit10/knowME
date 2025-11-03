@@ -33,8 +33,8 @@ I’m passionate about **web development**, building creative projects, and expl
 
 ### 💼 My Projects
 - 🧠 [**Resume Builder**](https://github.com/Anshikapurohit10/ZumeBuilder) – Create, preview, and download professional resumes.
-- 🌤 ✍️ [**Textify Pro**](https://github.com/yourusername/TextifyPro) - enhance text , copy,convertto upper and lower case, word count. 
-- 📚 🏫 [**Trisetu Web**](https://github.com/yourusername/Trisetu) - student and teacher connect , attendence,assignment,result ,profile approval.
+- 🌤 ✍️ [**Textify Pro**]() - enhance text , copy,convertto upper and lower case, word count. 
+- 📚 🏫 [**Trisetu Web**](https://github.com/Anshikapurohit10/Setu) - student and teacher connect , attendence,assignment,result ,profile approval.
 
 ---
 
