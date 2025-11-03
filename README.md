@@ -1,7 +1,7 @@
 # knowME
 <!-- Banner image -->
 <p align="center">
-  <img src="banner.png" alt="Anshika Purohit Banner" width="100%">
+  <img src="Banner.png" alt="Anshika Purohit Banner" width="100%">
 </p>
 
 
