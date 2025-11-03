@@ -39,12 +39,13 @@ I’m passionate about **web development**, building creative projects, and expl
 
 ---
 
-### 📊 GitHub Stats
 
+
+
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=blue-green&hide_border=true" width="80%" />
 </p>
 
 
